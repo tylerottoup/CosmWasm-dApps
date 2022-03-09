@@ -10,8 +10,8 @@ const local: AppConfig = {
   feeToken: "stake",
   stakingToken: "stake",
   coinMap: {
-    stake: { denom: "STAKE", fractionalDigits: 6 },
-    token: { denom: "TOKEN", fractionalDigits: 6 },
+    stake: { denom: "STAKE", fractionalDigits: 0 },
+    token: { denom: "TOKEN", fractionalDigits: 0 },
   },
   gasPrice: 0.025,
 };
