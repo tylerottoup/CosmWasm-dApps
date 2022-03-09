@@ -1,4 +1,4 @@
-# dApps
+# CosmWasm-dApps
 
 A lerna monorepo with sample dApps for CosmWasm contracts that use CosmJS frontend SDK and the local logic and design packages.
 
